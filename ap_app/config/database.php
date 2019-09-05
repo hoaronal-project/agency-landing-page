@@ -47,10 +47,10 @@
 $active_group = 'live';
 $active_record = TRUE;
 
-$db['live']['hostname'] = 'localhost';
-$db['live']['username'] = 'root';
-$db['live']['password'] = 'Quanghoa1993';
-$db['live']['database'] = 'mbak_btech';
+$db['live']['hostname'] = 'o677vxfi8ok6exrd.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+$db['live']['username'] = 'po0vf6rt5dooixxz';
+$db['live']['password'] = 'gji4cqhttwz1lnwa';
+$db['live']['database'] = 'z3xnm0r6h1dommrx';
 $db['live']['dbdriver'] = 'mysqli';
 $db['live']['dbprefix'] = '';
 $db['live']['pconnect'] = TRUE;
