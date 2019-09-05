@@ -1,0 +1,9 @@
+<script src="<?php echo base_url('public/js/jquery-1.11.0.min.js');?>"></script><!-- jQuery Library -->
+        <script src="<?php echo base_url('public/js/jquery-migrate-1.2.1.min.js');?>"></script><!-- jQuery migrate script -->
+        <script src="<?php echo base_url('public/js/jquery.bootstrap.min.js');?>"></script><!-- bootstrap -->
+        <script src="<?php echo base_url('public/js/jquery.scripts.min.js');?>"></script><!-- must be included in all files -->
+        <script src="<?php echo base_url('public/js/jquery.tweetscroll.js');?>"></script><!-- Tweetscroll plugin -->   
+        <script src="<?php echo base_url('public/rs-plugin/js/jquery.themepunch.plugins.min.js');?>"></script><!-- revolution slider -->
+        <script src="<?php echo base_url('public/rs-plugin/js/jquery.themepunch.revolution.min.js');?>"></script><!-- revolution slider -->
+        <script src="<?php echo base_url('public/js/jquery.isotope.min.js');?>"></script> <!-- jQuery isotope -->
+        <script src="<?php echo base_url('public/js/include.js');?>"></script><!-- custom options --> 
