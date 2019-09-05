@@ -13,7 +13,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/agency_portal';
+$config['base_url']	= 'https://landing-page-demo1.herokuapp.com/';
 /*
 |--------------------------------------------------------------------------
 | Index File
